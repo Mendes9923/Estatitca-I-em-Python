@@ -22,4 +22,11 @@ Este repositório é um ponto de partida para explorar estatística em Python. O
 
 ![image](https://github.com/Mendes9923/Estatitca-I-em-Python/assets/110001026/14256151-c179-4018-8b03-b49dcfa2821a)
 ![image](https://github.com/Mendes9923/Estatitca-I-em-Python/assets/110001026/4ff740a1-5dbe-42b2-aa57-d30b4525943e)
+![image](https://github.com/Mendes9923/Estatitca-I-em-Python/assets/110001026/ab2b62f1-5aee-4542-9d0b-bf0576865067)
+![image](https://github.com/Mendes9923/Estatitca-I-em-Python/assets/110001026/c79e0956-5a33-4d3c-a351-c4bd31e31650)
+![image](https://github.com/Mendes9923/Estatitca-I-em-Python/assets/110001026/6ce5af19-b3a3-413d-af1f-421324617d17)
+![image](https://github.com/Mendes9923/Estatitca-I-em-Python/assets/110001026/0a880dd8-e076-46e7-afc7-9dee1c8c1865)
+
+
+
 
