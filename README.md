@@ -21,3 +21,5 @@ Teste ANOVA: Comparar as médias de três ou mais populações.
 Este repositório é um ponto de partida para explorar estatística em Python. O código pode ser adaptado e estendido para realizar análises mais complexas.
 
 ![image](https://github.com/Mendes9923/Estatitca-I-em-Python/assets/110001026/14256151-c179-4018-8b03-b49dcfa2821a)
+![image](https://github.com/Mendes9923/Estatitca-I-em-Python/assets/110001026/4ff740a1-5dbe-42b2-aa57-d30b4525943e)
+
